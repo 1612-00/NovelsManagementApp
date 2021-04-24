@@ -1,0 +1,24 @@
+extends ../layouts/common
+block content
+	.container.mt-5
+		h1 Create novel
+		form(method="POST", enctype="multipart/form-data")
+			.form-group
+				label(for="name") Name:
+				input#name.form-control(type="text", name="name")
+			.form-group
+				label(for="type") Type:
+				input#type.form-control(type="text", name="type")
+			.form-group
+				label(for="chapter") Chapter:
+				input#chapter.form-control(type="text", name="chapter")
+			.form-group
+				label(for="status") Status:
+				input#status.form-control(type="text", name="status")
+			.form-group
+				label.mr-3(for="avatar") Avartar: 
+				input#avatar(type="file", name="avatar")
+
+			button.btn.btn-outline-primary Create
+
+			
