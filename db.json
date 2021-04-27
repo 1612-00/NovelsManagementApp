@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "email": "nguyenducanh.ldb@gmail.com",
+      "password": "e10adc3949ba59abbe56e057f20f883e",
+      "id": "BAHS2871AG"
+    }
+  ],
+  "novels": [
+    {
+      "id": "uhe232y38",
+      "name": "Đấu phá thương khung",
+      "type": "Tiên hiệp, huyền huyễn",
+      "chapter": "1641",
+      "status": "Full",
+      "desc": "Đấu Phá Thương Khung là một câu chuyện huyền huyễn đặc sắc kể về Tiêu Viêm, một thiên chi kiêu tử với thiên phú tu luyện mà ai ai cũng hâm mộ, bỗng một ngày người mẹ mất đi đễ lại di vật là một chiếc giới chỉ màu đen nhưng từ khi đó Tiêu Viêm đã mất đi thiên phú tu luyện của mình. Từ thiên tài rớt xuống làm phế vật trong 3 năm, rồi bị vị hôn thê thẳng thừng từ hôn, làm dấy lên ý chí nam nhi của mình, Tiêu Viêm nhờ di vật của mẫu thân để lại là 1 chiếc hắc giới chỉ (nhẫn màu đen)Tiêu Viêm gặp được hồn của Dược Lão (Dược Trần – Dược tôn giả) 1 đại luyện dược tông sư của đấu khí đại lục… Từ đó cuộc đời của Tiêu Viêm có những biến hóa gì? Gặp được các đại ngộ gì? Thân phận thật sự của Huân Nhi (thanh mai trúc mã lúc nhỏ của Tiêu Viêm) ra sao? Bí mật của gia tộc hắn là gì? Cùng theo dõi bộ truyện Đấu Phá Thương Khung để có thể giải đáp các thắc mắc này các bạn nhé!",
+      "avatar": "uploads/9d233175ff56392dd22c01fa9083f44d"
+    },
+    {
+      "id": "fhweuhwfui",
+      "name": "Đấu la đại lục",
+      "type": "Tiên hiệp, chuyển sinh",
+      "chapter": "517",
+      "status": "Full",
+      "desc": "Một đại lục không hề yên bình, một cuộc sống đầy hiểm nguy, phiêu lưu nhưng cũng không kém phần lãng mạn. tình yêu, thù hận, trách nhiệm… Tiếp bước những tiền bối đi trước, Hoắc Vũ Hạo và đời sau sử lai khắc thất quái, bằng niềm tin nhiệt huyết tuổi trẻ đã gây dựng lại đường môn tái lập những huy hoàng xưa kia của các tiền bối đi trước… Kiếp trước là thiên tài sau khi chế tạo ám khí cao nhất của đường môn: Phật Nộ Liên Hoa. Xuyên việt mang theo võ công cùng với ám khí Đường Môn đến thế giới không có võ công cùng ám khí siêu đẳng như thế, chuyện gì sẽ xảy ra tiếp theo? Hãy cùng nhau theo dõi Đấu La Đại Lục để biết rõ bạn nhé.",
+      "avatar": "uploads/49ee7ed03ac360d4e76d052fb76b2f6d"
+    },
+    {
+      "name": "Vũ động càn khôn",
+      "type": "Tiên hiệp, huyền huyễn",
+      "chapter": "1309",
+      "status": "Full",
+      "desc": "Vũ Động Càn Khôn - Từ xưa đến nay, con người luôn có khát vọng vươn lên đỉnh cao, để đổi lấy sự thành công họ đã hy sinh biết bao nhiêu mồ hôi và nước mắt. Tu Luyện chính là trộm đi âm dương, đoạt lấy tạo hóa, chuyển đổi Niết Bàn, nắm giữ sinh tử, chưởng quản Luân Hồi. Có người theo đuổi quyền lực và sức mạnh, có người thì truy cầu tình yêu, nhưng sống trong thời loạn không thể không có thực lực trong tay, muốn có chỗ đứng hay bảo vệ những người thương yêu đều cần phải có thực lực, đó là chân lý không bao giờ thay đổi tự cổ chí kim. Câu chuyện là một trang sách nói về cuộc đời của một tu luyện giả, bên cạnh đó còn miêu tả cuộc sống đời thường, những suy nghĩ bình thường, nhưng nếu như số mệnh đã sắp đặt bản thân phải đi trên một con đường đầy gian khổ và trắc trở thì sao? Con người đặc biệt luôn có số mệnh đặc biệt, bất kể xuất thân, bất kể địa vị. Chúng ta hãy cùng dõi theo những bước chân của họ, không chỉ đơn giản là xem những pha đánh nhau đẹp mắt, hay những chiêu thức tráng lệ, cũng không phải chỉ để bàn luận...",
+      "id": "pL5xJ3r6O",
+      "avatar": "uploads/c433c0ca6e8690c059b3ac01c3328401"
+    }
+  ]
+}

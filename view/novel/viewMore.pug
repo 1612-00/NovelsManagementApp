@@ -1,0 +1,23 @@
+extends ../layouts/common
+block content
+	.container.mt-5.mb-5
+		.row
+			.col-md-4
+				img.mb-3(src="../" + novel.avatar, width=250)
+				p 
+					b Type: &nbsp
+					span= novel.type
+				p 
+					b Amount Chapter: &nbsp
+					span= novel.chapter
+				p 
+					b Status: &nbsp
+					span= novel.status
+			.col-md-7
+				h3.text-center
+					b= novel.name
+				hr
+				p(style="text-indent: 15px")= novel.desc
+				a.btn.btn-sm.btn-outline-dark.float-right Xem thêm
+				
+			

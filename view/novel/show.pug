@@ -1,24 +1,13 @@
 extends ../layouts/common
 block content
 	.container.mt-5
-		h1 Novel List
-		table.table.table-striped.table-bordered
-			thead
-				tr
-					th Avatar
-					th Name
-					th Type
-					th Chapter
-					th Status
-					th Read more
-			tbody
-				each novel in novels
-					tr
-						td
-							img(src="../" + novel.avatar, width=80)
-						td= novel.name
-						td= novel.type
-						td= novel.chapter
-						td= novel.status
-						td
-							a(href="#") More
+		.d-flex.justify-content-between
+			h1 Novel List 
+			form.form-inline.d-flex(method="GET", action="/novel/search")
+					span.form-text.mr-3 Search 
+					input.form-control.mr-2(type="text", name="q", value= input) 
+					button.btn.btn-outline-primary Tìm kiếm 
+		each novel in novels
+			a(href="/novel/" + novel.id)
+				img.m-3(src= "../" + novel.avatar, style="width:180; height:250")
+	
